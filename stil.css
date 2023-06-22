@@ -45,6 +45,7 @@ header *{
     font-family: barlowsemiBold;
     font-size: 2rem;
     color: white;
+    display: block;
 }
 
 header {
@@ -79,5 +80,5 @@ header {
     border: 10px solid white;
     border-radius: 50%;
     width: 35%;
-    margin-left: 40%;
+    margin-left: 45%;
 }
