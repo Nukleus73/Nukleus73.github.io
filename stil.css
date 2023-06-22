@@ -64,11 +64,13 @@ header {
 }
 
 #gitlogo {
-    height: ;
     float: right;
+    width: 100px;
+    padding: 25px;
 }
 
 #maillogo {
-    height: ;
     float: right;
+    width: 100px;
+    padding: 25px
 }
