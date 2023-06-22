@@ -40,8 +40,23 @@ nav {
     letter-spacing: 15px;
 }
 
+header *{
+    font-family: barlowsemiBold;
+    font-size: 2rem;
+    color: white;
+}
+
+header {
+    margin-left: 20%;
+    margin-top: 100px;
+}
+
 /* -------------------------------------------------------- */
 
 #icon {
     width: 100px;
+}
+
+#navn {
+    font-size: 8rem;
 }
