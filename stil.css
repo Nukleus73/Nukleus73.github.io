@@ -23,9 +23,25 @@
 }
 
 body {
-    font-family: barlowsemiBold;
-    font-size: 30pt;
+    font-family: barlowlight;
+    font-size: 2rem;
     background-color: #0f1b27;
 }
 
+nav *{
+    display: inline-block;
+    margin: 20px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    color: white;
+    letter-spacing: 15px;
+}
+
 /* -------------------------------------------------------- */
+
+#icon {
+    width: 100px;
+}
