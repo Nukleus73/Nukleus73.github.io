@@ -1,0 +1,17 @@
+@font-face {
+    font-family: barlowlight;
+    src: url(media/font/Barlow-Light.ttf)
+}
+
+@font-face {
+    font-family: barlowregular;
+    src: url(media/font/Barlow-Regular.ttf)
+}
+
+@font-face {
+    font-family: barlowsemiBold;
+    src: url(media/font/Barlow-SemiBold.ttf)
+}
+
+/* -------------------------------------------------------- */
+
