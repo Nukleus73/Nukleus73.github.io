@@ -1,3 +1,8 @@
-@media only screen and (max-width 768px) {
-    
+/* DEVICE DETECTION */
+
+@media only screen and (max-width: 768px) {
+    #navleft {
+        letter-spacing: 0px;
+        text-decoration: underline;
+    }
 }
