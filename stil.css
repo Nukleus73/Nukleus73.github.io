@@ -65,12 +65,12 @@ header {
 
 #gitlogo {
     float: right;
-    width: 100px;
-    padding: 25px;
+    width: 80px;
+    margin-right: 5%;
 }
 
 #maillogo {
     float: right;
-    width: 100px;
-    padding: 25px
+    width: 80px;
+    margin-right: 5%;
 }
