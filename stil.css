@@ -70,10 +70,20 @@ header {
     margin-right: 5%;
 }
 
+#gitlogo:hover {
+    width: 90px;
+    transition-duration: .2s;
+}
+
 #maillogo {
     float: right;
     width: 80px;
     margin-right: 5%;
+}
+
+#maillogo:hover {
+    width: 90px;
+    transition-duration: .2s;
 }
 
 #portrait {
