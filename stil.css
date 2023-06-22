@@ -25,22 +25,33 @@
 body {
     font-family: barlowsemiBold;
     font-size: 30pt;
-    background-color: #fbfee2;
+    background-color: #0f1b27;
 }
 
 nav {
-    background-color: #008080;
-    border: 5px solid #001a1a;
+    background-color: #192c3f;
+    border: 2px solid #ff4500;
     color: white;
     width: 90%;
     padding: 10px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 80px;
+    margin-top: 60px;
     text-align: center;
     display: flex;
     justify-content: center;
-    border-radius: 15px;
+    border-radius: 5px;
+}
+
+header {
+    background-color: #192c3f;
+    border: 2px solid #ff4500;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    border-radius: 5px;
+    margin-top: 30px;
 }
 
 /* -------------------------------------------------------- */
@@ -48,6 +59,7 @@ nav {
 #icon {
     width: 85px;
     height: 85px;
+    margin-right: 10px;
 }
 
 #navleft {
@@ -64,13 +76,13 @@ nav {
     display: inline-block;
     color: white;
     transition-duration: .2s;
-    background-color: rgba(255, 255, 255, .5);
-    border-radius: 50px;
+    background-color: #ff440069;
+    border-radius: 10px;
     padding: 10px 20px;
     font-size: 2rem;
 }
 
 .knapper:hover {
     scale: 1.1;
-    background-color: aliceblue;
+    background-color: rgba(255, 0, 0, 0.582)
 }
