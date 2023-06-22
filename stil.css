@@ -33,9 +33,33 @@ nav {
     border: 5px solid #001a1a;
     color: white;
     width: 90%;
-    height: 95px;
+    padding: 10px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 80px;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+}
+
+#icon {
+    width: 85px;
+    height: 85px;
+    position: absolute;
+}
+
+#navleft {
+    margin-right: auto;
+    letter-spacing: 25px;
+    margin-left: auto;
+}
+
+#navright {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.knapper {
+    margin: 15px;
 }
