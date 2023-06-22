@@ -1,18 +1,9 @@
 /* DEVICE DETECTION */
 
-@media only screen and (max-width: 768px) {
-    #navleft {
-        letter-spacing: 0px;
-        text-decoration: underline;
-    }
-
-@media only screen and (max-width: 768px) {
-    #navleft {
-        letter-spacing: 0px;
-        text-decoration: underline;
-    }
-
-    .knapper {
-        display: none;
+@media only screen and (max-width: 896px) {
+    nav {
+        background-color: #008080;
+        border: 5px solid #001a1a;
+        color: white;
     }
 }
