@@ -18,9 +18,11 @@ header {
 
 #head1 {
     background-color: lightgray;
+    padding: 50px;
     width: 100%;
 }
 
 #head2 {
+    padding: 50px;
     width: 100%;
 }
