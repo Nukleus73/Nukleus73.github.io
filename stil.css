@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Jost', sans-serif;
+}
+
+/*HEADER*/
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+#head1 {
+    background-color: lightgray;
+    width: 100%;
+}
+
+#head2 {
+    width: 100%;
+}
