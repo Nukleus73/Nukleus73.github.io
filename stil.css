@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap');
+@import url('https://api.fontshare.com/v2/css?f[]=poppins@400&f[]=nunito@500&display=swap"');
 
 *{
     margin: 0;
@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: 'Jost', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 /*HEADER*/
@@ -17,9 +17,12 @@ header {
 }
 
 #head1 {
-    background-color: lightgray;
     padding: 50px;
     width: 100%;
+}
+
+h1 {
+    font-family: 'Nunito', sans-serif;
 }
 
 #head2 {
