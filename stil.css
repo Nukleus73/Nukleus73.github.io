@@ -17,6 +17,8 @@ header {
 }
 
 #head1 {
+    display: flex;
+    justify-content: center;
     padding: 50px;
     width: 100%;
 }
@@ -26,6 +28,8 @@ h1 {
 }
 
 #head2 {
+    display: flex;
+    justify-content: center;
     padding: 50px;
     width: 100%;
 }
